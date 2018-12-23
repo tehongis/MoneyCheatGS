@@ -5,5 +5,7 @@ Unzip everything to ~/.openttd/game/MoneyCheatsGS folder. (linux)
 
 Before running dedicated server, remember to add following lines to the openttd.cfg
 
+{code}
 [game_scripts]
 MoneyCheatGS = 
+{code}
